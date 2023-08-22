@@ -13,8 +13,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m9china&show_icons=true&locale=en&layout=compact" alt="pitsi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m9china&show_icons=true&locale=en" alt="pitsi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m9china&" alt="pitsi" /></p>
