@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Pitsi Kagisho</h1>
-<h3 align="left">A Full Stack Developer who's passionate about the whole Web Development journey</h3>
+<h3 align="left">A Software Developer who's passionate about the whole Web Development journey</h3>
   <img align="top" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" style="margin-right: 10px;">
 
 - 🌱 I’m confident with **React, JavaScript, Python, TypeScript, Docker, Graphql, HTML, Hasura, GitHub, and PostgreSQL (SQL)**
