@@ -13,6 +13,10 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kagisho96&show_icons=true&locale=en&layout=compact" alt="kagisho" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kagisho96&show_icons=true&locale=en" alt="kagisho96" /></p>
+  <details>
+  <summary>Language Statistics</summary>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018d30ea-f706-41dd-b9cb-e541af65e0f8/f2ca3999-fc7a-4570-83fb-0640ad336455.png" height="300" width="450" /></a>
+</details>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kagisho96&" alt="kagisho96" /></p>
 <h3 align="left">Connect with me:</h3>
