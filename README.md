@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I am Pitsi Kagisho</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kagisho96&label=Profile%20views&color=0e75b6&style=flat" alt="mathibelad" /> </p>
+
 <h3 align="left">A Software Developer who's passionate about the whole Web Development journey</h3>
   <img align="top" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" style="margin-right: 10px;">
 
@@ -13,10 +15,10 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kagisho96&show_icons=true&locale=en&layout=compact" alt="kagisho" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kagisho96&show_icons=true&locale=en" alt="kagisho96" /></p>
-  <details>
+<!--   <details>
   <summary>Language Statistics</summary>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018d30ea-f706-41dd-b9cb-e541af65e0f8/f2ca3999-fc7a-4570-83fb-0640ad336455.png" height="300" width="450" /></a>
-</details>
+</details> -->
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kagisho96&" alt="kagisho96" /></p>
 <h3 align="left">Connect with me:</h3>
